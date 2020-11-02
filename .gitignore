@@ -1,0 +1,45 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipch
+*.idx3-ubyte
+*.idx1-ubyte
+*.iobj
+*.ipdb
+*.pdb
+*.tlog
+*.log
+*.user
+*.filters
+*.db
+*.opendb
+.vs/DCGAN/v16/.suo
